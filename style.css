@@ -20,8 +20,8 @@ body {
 
 .display {
     width: 100%;
-    min-height: 10%;
-    max-height: min-content;
+    min-height: 20%;
+    height: min-content;
     background-color: gray;
     color: white;
     word-break: break-all;
@@ -41,7 +41,7 @@ body {
 }
 
 .calculator {
-    height: 70%;
+    height: 60%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, fr);
