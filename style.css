@@ -18,6 +18,12 @@ body {
     width: 40vw;
 }
 
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: darkgrey;
+}
+
 .display {
     width: 100%;
     min-height: 20%;
@@ -31,6 +37,13 @@ body {
     justify-content: space-between;
     padding-right: 3vw;
 }
+
+button {
+    color: black;
+    background-color: darkgray;
+}
+
+
 
 .sNumber {
     font-size: 40px;
